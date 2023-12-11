@@ -1,0 +1,83 @@
+(1).Konsep Dasar WRTG'S adalah sebuah tempat yang menyediakan akses untuk membeli makanan dengan lebih mudah.
+(2).1.bisnis akan diminati banyak orang karna sesuai dengan zaman
+2.anak anak muda gak gampang bosan karna ada internet
+3.internet Memiliki daya tarik sehingga dapat menarik banyak perhatian pelanggan
+(3).# Daftar Perbaikan dan Keuntungan
+
+### 1. Pemahaman Konsep Dasar
+   - Peserta akan memperoleh pemahaman yang kuat tentang konsep dasar pemrograman seperti variabel, tipe data, dan struktur kontrol.
+   - Membuat dasar yang kokoh untuk mempelajari bahasa pemrograman apa pun dengan mudah.
+
+### 2. Peningkatan Keterampilan Pemecahan Masalah
+   - Membiasakan diri dengan logika pemrograman dan pemecahan masalah akan memungkinkan peserta untuk menghadapi masalah-masalah dunia nyata dengan percaya diri.
+   - Meningkatkan kemampuan untuk merancang algoritma dan menerapkan solusi yang efisien.
+
+### 3. Pengenalan Konsep Lanjutan
+   - Peserta akan diperkenalkan dengan konsep-konsep lanjutan seperti struktur data, paradigma pemrograman, dan algoritma kompleks.
+   - Memperluas wawasan tentang kemungkinan yang ada dalam dunia pemrograman.
+
+### 4. Peningkatan Kemampuan Berkolaborasi
+   - Melalui latihan praktis dan tantangan pemrograman, peserta akan belajar bagaimana bekerja dalam tim untuk menyelesaikan masalah dan memperbaiki kode bersama-sama.
+   - Meningkatkan kemampuan untuk berkomunikasi dan berkolaborasi dengan rekan-rekan sesama pengembang.
+
+### 5. Persiapan untuk Karir di Bidang Teknologi
+   - Workshop ini akan membantu peserta mempersiapkan diri untuk karir di bidang teknologi dengan memberikan landasan yang kuat dalam pemrograman.
+   - Memberikan pengalaman praktis dalam menyelesaikan masalah kompleks yang sering dihadapi dalam dunia nyata.
+
+Dengan daftar perbaikan dan keuntungan ini, kami yakin bahwa peserta akan memperoleh nilai tambah yang signifikan dalam perjalanan pemrograman mereka. Ayo bergabung dan mulailah perjalanan Anda dalam dunia pemrograman yang menarik!
+(4).# Workshop Koding: Pengelolaan File dan Metadata
+
+## Pengelolaan File di Komputer
+Pertama-tama, mari kita mulai dengan pengelolaan file di komputer. File-file di komputer bisa berupa dokumen, gambar, video, atau kode program. Untuk mengelola file-file ini, kita perlu memahami bagaimana cara membuat, menyimpan, mengedit, dan mengatur file-file tersebut.
+
+### Operasi Dasar
+Kita akan membahas operasi dasar seperti membuat folder, membuat file, menyalin, memindahkan, dan menghapus file. Selain itu, kita juga akan membahas bagaimana cara mencari file, mengubah nama file, dan penggunaan file system.
+
+### Struktur File System
+Kita akan mempelajari tentang struktur file system di komputer, termasuk konsep path, direktori, dan file. Kita juga akan membahas perbedaan antara file lokal dan file remote, serta bagaimana cara mengakses file-file tersebut.
+
+## Metadata dalam Pengelolaan File
+Sekarang, mari kita bahas tentang metadata dan perannya dalam pengelolaan file. Metadata adalah informasi tambahan yang memberikan deskripsi tentang suatu file. Metadata dapat berupa informasi tentang pencipta file, tanggal modifikasi, jenis file, dan lain sebagainya.
+
+### Peran Metadata
+Metadata dapat membantu kita dalam mencari dan mengatur file-file. Dengan menggunakan metadata, kita dapat melakukan pencarian spesifik berdasarkan kriteria tertentu, misalnya mencari semua file yang dibuat oleh suatu pengguna dalam rentang waktu tertentu.
+
+### Praktik Penggunaan Metadata
+Kita akan belajar bagaimana cara menambahkan, mengedit, dan mengakses metadata dari suatu file. Selain itu, kita juga akan mempelajari bagaimana cara menggunakan metadata untuk mengatur file-file secara efisien.
+
+## Latihan dan Tantangan Koding
+Setelah mempelajari konsep-konsep dasar tentang pengelolaan file dan metadata, kita akan melakukan beberapa latihan praktik dan tantangan koding. Ini akan membantu kita untuk mengaplikasikan konsep-konsep yang telah dipelajari ke dalam situasi dunia nyata.
+(5).# Workshop Interaktif: Memahami Metadata dalam Penyelesaian Kasus Kriminal
+
+## Pendahuluan
+Selamat datang dalam workshop interaktif tentang penggunaan metadata dalam penyelesaian kasus kriminal. Metadata adalah informasi tambahan yang memberikan konteks tentang data. Dalam konteks hukum, metadata dapat menjadi alat yang sangat berguna dalam menyelesaikan kasus kriminal.
+
+## Penggunaan Metadata dalam Penyelesaian Kasus Kriminal
+Salah satu contoh kasus kriminal yang melibatkan penggunaan metadata adalah kasus pencurian data elektronik. Dalam kasus ini, metadata dari file-file yang terlibat dapat memberikan petunjuk penting tentang siapa yang melakukan pencurian data, kapan data tersebut diakses, dan dari mana data tersebut diakses.
+
+### Contoh Kasus: Pencurian Data Perusahaan
+Misalkan ada perusahaan yang mengalami pencurian data rahasia oleh mantan karyawan mereka. Dalam kasus ini, tim investigasi dapat menggunakan metadata dari file-file yang dicuri untuk melacak aktivitas tersebut. Metadata dapat memberikan informasi tentang waktu akses terakhir, alamat IP yang digunakan untuk mengakses file-file tersebut, dan bahkan perangkat yang digunakan untuk mengaksesnya.
+
+Dengan menggunakan informasi metadata ini, tim investigasi dapat melacak jejak digital mantan karyawan tersebut dan mengumpulkan bukti yang kuat untuk menuntutnya secara hukum.
+
+## Latihan: Analisis Metadata
+Mari kita lakukan latihan praktik untuk memahami penggunaan metadata dalam penyelesaian kasus kriminal. Saya akan memberikan beberapa file dengan metadata yang perlu dianalisis. Tugas Anda adalah mencari tahu informasi apa yang dapat Anda peroleh dari metadata tersebut dan bagaimana informasi tersebut dapat membantu dalam menyelesaikan kasus.
+
+*File 1:*
+- Nama File: confidential_document.docx
+- Metadata: Waktu pembuatan: 10 Januari 2022, 08:30 AM
+- Metadata: Waktu akses terakhir: 15 Februari 2022, 11:45 PM
+- Metadata: Pengguna: JohnDoe
+- Metadata: Alamat IP terakhir: 203.120.56.78
+
+*File 2:*
+- Nama File: financial_records.xlsx
+- Metadata: Waktu pembuatan: 5 Maret 2022, 10:00 AM
+- Metadata: Waktu akses terakhir: 8 Maret 2022, 09:15 AM
+- Metadata: Pengguna: JaneSmith
+- Metadata: Alamat IP terakhir: 121.14.32.56
+
+Setelah Anda menganalisis metadata dari kedua file tersebut, bagikan dengan kami informasi apa yang dapat Anda peroleh dari metadata tersebut dan bagaimana informasi tersebut dapat membantu dalam menyelesaikan kasus.
+
+## Kesimpulan
+Dengan memahami penggunaan metadata, kita dapat melihat betapa pentingnya metadata
